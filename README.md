@@ -9,7 +9,7 @@
             a program in c++ that takes in user input through cin and prints input stylistically through cout. currently working on taking in file inputs
             and file outputs. style can be chosen through command line arguments. 
             
-            options: a.typewrite - prints input letter by letter on the same line (unless specified) to terminal
+            options: a.typewrite - prints input letter by letter on the same line to mimic that of a typewriter(unless specified) to terminal
             
             command-line args: ./typewriter typewrite [input] [output]
             
